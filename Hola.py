@@ -20,3 +20,14 @@
 # n2=int(input("ingrese un numero "))
 # print("la multiplicacion es ",(n1*n2))
 
+# promdedio de tres numeros 
+n1=int(input("ingrese un numero "))
+n2=int(input("ingrese un numero "))
+n3=int(input("ingrese un numero "))
+
+suma=n1+n2+n3
+promedio=suma/3
+print("el promedio es ",promedio)
+
+
+
